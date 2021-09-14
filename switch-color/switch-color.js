@@ -1,15 +1,3 @@
-// const colors = [
-//     '#FFFFFF',
-//     '#2196F3',
-//     '#4CAF50',
-//     '#FF9800',
-//     '#009688',
-//     '#795548',];
-
-// const randomIntegerFromInterval = (min, max) => {
-//     return Math.floor(Math.random() * (max - min + 1) + min);
-// };
-
 
 
 const refs = {
@@ -19,38 +7,6 @@ const refs = {
 }
 
 
-// let f = null
-
-
-
-
-// const getRandomTime = (min, max) => {
-
-
-//     return Math.floor(Math.random() * (max - min + 1) + min);
-
-// };
-
-
-
-// const drive = (pilot) => {
-
-//     const a = getRandomTime(3000, 6000);
-
-//     f = setInterval(() => {
-//         refs.body.style.backgroundColor = pilot
-//     }, a);
-//     colors.map(pilot => pilot)
-
-// };
-
-
-// function remove() {
-//     console.log(clearInterval(f));
-// }
-
-// refs.start.addEventListener('click', drive);
-// refs.stop.addEventListener('click', remove);
 
 
 const colors = [
